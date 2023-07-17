@@ -41,6 +41,8 @@
 #### Требования к результату
 - [ ] Прикрепите к файлу README.md скриншот systemctl status node-exporter, где будет написано: node-exporter.service — Node Exporter Netology Lesson 9.4 — [Ваши ФИО]
 
+- [ ] ![2](https://github.com/NikolayAntipov/prometheus1/blob/main/IMG/2.JPG)
+
 ---
 
 ### Задание 3
@@ -55,6 +57,9 @@
 #### Требования к результату
 - [ ] Прикрепите к файлу README.md скриншот конфигурации из интерфейса Prometheus вкладки Status > Configuration
 - [ ] Прикрепите к файлу README.md скриншот из интерфейса Prometheus вкладки Status > Targets, чтобы было видно минимум два эндпоинта
+
+- [ ] ![31](https://github.com/NikolayAntipov/prometheus1/blob/main/IMG/3.1.JPG)
+- [ ] ![32](https://github.com/NikolayAntipov/prometheus1/blob/main/IMG/3.2.JPG)
 
 
 
